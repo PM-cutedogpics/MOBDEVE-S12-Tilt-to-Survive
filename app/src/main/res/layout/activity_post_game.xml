@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".postGameActivity">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_left_retry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="73dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_right_retry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="354dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_left_quit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="398dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_right_quit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="679dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_buttons_top"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="272dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_buttons_eblow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="376dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="607dp"
+        android:layout_height="197dp"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="73dp"
+        tools:layout_editor_absoluteY="40dp" />
+
+    <ImageButton
+        android:id="@+id/ib_retry"
+        android:layout_width="271dp"
+        android:layout_height="112dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/text_box"
+        tools:layout_editor_absoluteX="73dp"
+        tools:layout_editor_absoluteY="272dp" />
+
+    <ImageButton
+        android:id="@+id/ib_quit"
+        android:layout_width="271dp"
+        android:layout_height="112dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/text_box"
+        tools:layout_editor_absoluteX="401dp"
+        tools:layout_editor_absoluteY="272dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
