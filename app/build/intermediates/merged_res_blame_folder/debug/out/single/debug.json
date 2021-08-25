@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cow.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\cow.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_powerup_speedup.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\powerup_speedup.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gear.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\gear.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\font_eight_bit.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\font\\eight_bit.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trophy.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\trophy.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_powerup_star.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\powerup_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spaceship.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\spaceship.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laser.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\laser.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_haste_box.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\haste_box.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nuke_box.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\nuke_box.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_freeze.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\freeze.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_post_game.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\layout\\activity_post_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laser_box.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\laser_box.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slow_box.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\slow_box.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_achievement.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\layout\\item_achievement.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_podium.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\podium.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_achievements.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\layout\\activity_achievements.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_box.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\text_box.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_powerup.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\layout\\item_powerup.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_haste.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\haste.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_freeze_box.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\freeze_box.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pre_game.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\layout\\activity_pre_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slow.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\slow.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_box.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\title_box.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_force_field_box.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\force_field_box.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_store.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\layout\\activity_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_achievement.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\layout\\activity_view_achievement.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_powerup_nuke.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\powerup_nuke.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_powerup_heart.xml.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\powerup_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\font_eight_bit_wonder.TTF.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\font\\eight_bit_wonder.TTF"
+    },
+    {
+        "merged": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nuke.png.flat",
+        "source": "C:\\Users\\pfcho\\Desktop\\DONE\\MOBDEVE-S12-Tilt-to-Survive\\app\\src\\main\\res\\drawable\\nuke.png"
+    }
+]
